@@ -17,7 +17,7 @@ public class HelloWorld {
         int tong = a + b;
 
         // Hiển thị kết quả
-        System.out.println("Tổng của " + a + " + " + b + " là: " + tong);
+        System.out.println("Tong cua " + a + " + " + b + " la: " + tong);
         
         // Đóng scanner
         scanner.close();
