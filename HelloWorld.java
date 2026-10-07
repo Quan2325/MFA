@@ -6,7 +6,7 @@ public class HelloWorld {
         Scanner scanner = new Scanner(System.in);
 
         // Nhập số thứ nhất
-        System.out.print("Nhập số thứ nhất (a): ");
+        System.out.print("Nhập số thứ nhat (a): ");
         int a = scanner.nextInt();
 
         // Nhập số thứ hai
